@@ -23,7 +23,7 @@ surf = ax1.plot_surface(X, Y, Z, rstride=1, cstride=1,
                         antialiased=False, cmap='hsv')
 ax1.set_zlim(-0.01, 2.01)
 fig.colorbar(surf, shrink=0.5, aspect=10)
-img = plt.imread('../Module 5/FigExample_5_3.png')
+img = plt.imread('../Module 5. Arrays/FigExample_5_3.png')
 ax2 = fig.add_subplot(1, 2, 2)
 ax2.imshow(img)
 
