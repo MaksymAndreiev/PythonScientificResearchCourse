@@ -34,5 +34,5 @@ def animate(i):
 
 anim = FuncAnimation(fig, animate, init_func=init,
                      frames=nframes, interval=80, blit=True)
-anim.save('7_3.gif', writer='pillow')
+anim.save('7.3 Animation of a curve.gif', writer='pillow')
 plt.show()

@@ -40,5 +40,5 @@ def animate(i):
 
 anim = FuncAnimation(fig, animate, frames=nframes,
                      interval=50, blit=True)
-anim.save('7_4.gif', writer='pillow')
+anim.save('7.4 Animation of a point along a curve.gif', writer='pillow')
 plt.show()
