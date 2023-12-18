@@ -2,7 +2,11 @@
 
 ### Parallelogram in space.
 
-A plane parallelogram is given in space, the coordinates of three vertices A, B, C are known. Find the coordinates of the fourth vertex D, which is opposite to vertex A. Calculate the area of the parallelogram. Draw a parallelogram (the part of the plane occupied by the figure). Separately draw the contour of the parallelogram and its vertices. From point A, draw a line segment to point E, the midpoint of side BD. At point E, draw the normal vector to the plane of the parallelogram. For the figure, choose the length of the normal vector yourself.
+A plane parallelogram is given in space, the coordinates of three vertices A, B, C are known. Find the coordinates of
+the fourth vertex D, which is opposite to vertex A. Calculate the area of the parallelogram. Draw a parallelogram (the
+part of the plane occupied by the figure). Separately draw the contour of the parallelogram and its vertices. From point
+A, draw a line segment to point E, the midpoint of side BD. At point E, draw the normal vector to the plane of the
+parallelogram. For the figure, choose the length of the normal vector yourself.
 
 𝐴{2, -8, -1}; 𝐵{4, -6, 0}; 𝐶{-2, -5, 1};
 

@@ -9,7 +9,7 @@ triangle. В the center of the inscribed circle, draw the normal vector to the p
 
 Instruction. The radius R of a circle inscribed in a triangle is calculated by the formula
 
-$$R = R = \sqrt{\frac{{(s - a)(s - b)(s - c)}}{s}}$$
+$$R = \sqrt{\frac{{(s - a)(s - b)(s - c)}}{s}}$$
 
 where 𝑎, 𝑏, 𝑐 are the lengths of the sides opposite to vertices A, B, C; 𝑠 = (𝑎 + 𝑏 + 𝑐)/2.
 If we denote by 𝒓𝑨, 𝒓𝑩, 𝒓𝑪 the radius vectors of points A, B, C, then the radius vector 𝒓𝑶 of the center of the circle
@@ -25,7 +25,7 @@ inscribed in triangle ABC is calculated by the formula 𝒓𝑶 = (𝑎 ∙ 𝒓
 
 Вказівка. Радіус R вписаного в трикутник кола обчислюється за формулою
 
-$$R = R = \sqrt{\frac{{(s - a)(s - b)(s - c)}}{s}}$$
+$$R = \sqrt{\frac{{(s - a)(s - b)(s - c)}}{s}}$$
 
 де 𝑎, 𝑏, 𝑐 – довжини сторін протилежних вершинам A,B,C; 𝑠 = (𝑎 + 𝑏 + 𝑐)/2.
 Якщо через 𝒓𝑨, 𝒓𝑩, 𝒓𝑪 позначити радіуси-вектори точок A,B,C, то радіус-вектор
