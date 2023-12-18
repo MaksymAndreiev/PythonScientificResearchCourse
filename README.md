@@ -1,5 +1,9 @@
-<img src="https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/62c9b16f-3082-429b-8859-924a8ef317ad" width="40" height="40">
-<img src="https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/e15c264c-7781-413c-8404-c23c7860d04d" width="40" height="40">
+<div style="display: flex;">
+    <img src="http://geometry.karazin.ua/themes/frontend/images/mmf_logo.jpg" width="40" height="40">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="http://geometry.karazin.ua/themes/frontend/images/univer_logo.jpg" width="40" height="40">
+</div>
+
 
 # Using the Python programming language in in scientific research
 
