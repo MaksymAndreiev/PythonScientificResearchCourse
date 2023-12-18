@@ -18,7 +18,8 @@ with the instructions\
 If this is not done, the normal vector in the figure may not look like
 normal.
 
-𝑧 = 𝑥<sup>2</sup> + 𝑥𝑦 + 𝑦<sup>2</sup> − 𝑥 + 3𝑦
+𝑧 = 𝑥<sup>2</sup> + 𝑥𝑦 + 𝑦<sup>2</sup> − 𝑥 + 3𝑦\
+𝑥<sub>0</sub> = −0.5; 𝑦<sub>0</sub> = 0.7;
 
 # Завдання 9.4 (Варіант 15)
 
@@ -41,4 +42,5 @@ normal.
 Якщо це не зробити, то вектор нормалі на рисунку може не виглядати як
 нормаль.
 
-𝑧 = 𝑥<sup>2</sup> + 𝑥𝑦 + 𝑦<sup>2</sup> − 𝑥 + 3𝑦
+𝑧 = 𝑥<sup>2</sup> + 𝑥𝑦 + 𝑦<sup>2</sup> − 𝑥 + 3𝑦\
+𝑥<sub>0</sub> = −0.5; 𝑦<sub>0</sub> = 0.7;
