@@ -8,19 +8,19 @@ of arrays **A** and **B**, calculate the difference between these products. Solv
 equation *A* *X* = *B* with respect to the matrix *X*.
 
 
-**A** =
+$$\mathbf{A} =
+\begin{bmatrix}
+  1 & 1 & 1 \\
+  2 & 0 & 1 \\
+  0 & 1 & 1 \\
+\end{bmatrix}$$
 
-| 1 | 1 | 1 |
-|---|---|---| 
-| 2 | 0 | 1 |
-| 0 | 1 | 1 |
-
-**B** =
-
-| 1 | 1 | 3 |
-|---|---|---|
-| 1 | 0 | 1 |
-| 2 | 0 | 1 |
+$$\mathbf{B} =
+\begin{bmatrix}
+  1 & 1 & 3 \\
+  1 & 0 & 1 \\
+  2 & 0 & 1 \\
+\end{bmatrix}$$
 
 # Завдання 6.2 (Варіант 15) 
 ### Операції лінійної алгебри над двовимірними масивами.
@@ -34,20 +34,16 @@ equation *A* *X* = *B* with respect to the matrix *X*.
 *A* *X* = *B*
 відносно матриці *X*. 
 
-$$\[
-\mathbf{A} =
+$$\mathbf{A} =
 \begin{bmatrix}
   1 & 1 & 1 \\
   2 & 0 & 1 \\
   0 & 1 & 1 \\
-\end{bmatrix}
-\]$$
+\end{bmatrix}$$
 
-$$\[
-\mathbf{B} =
+$$\mathbf{B} =
 \begin{bmatrix}
   1 & 1 & 3 \\
   1 & 0 & 1 \\
   2 & 0 & 1 \\
-\end{bmatrix}
-\]$$
+\end{bmatrix}$$
