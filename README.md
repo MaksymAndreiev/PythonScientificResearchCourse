@@ -1,5 +1,5 @@
-![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/62c9b16f-3082-429b-8859-924a8ef317ad) &nbsp;&nbsp;&nbsp;&nbsp;
-![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/e15c264c-7781-413c-8404-c23c7860d04d)
+![](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/62c9b16f-3082-429b-8859-924a8ef317ad) &nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/e15c264c-7781-413c-8404-c23c7860d04d)
 
 # Using the Python programming language in in scientific research
 Laboratory workshop on the course "Using the Python programming language in in scientific research" in V.N. Karazin Kharkiv National University taken in 2021. This is an inter-faculty elective course. The course was taught by the Faculty of Mathematics and Informatics, Department of Theoretical and Applied Informatics. Lecturer Associate Professor of the Department of Theoretical and Applied Informatics, PhD in Engineering Petro Hryhorovych Dolya. Link: http://geometry.karazin.ua/en/~Dolya/documents#
