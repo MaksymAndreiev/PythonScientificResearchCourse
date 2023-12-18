@@ -14,17 +14,17 @@ of the function 𝐹<sub>1</sub>(𝑥, 𝑦). When constructing graphs, the rang
 To shorten the writing of the conditions, we will define piecewise functions in the form of two lists: a list of abscissa points of the breakpoints and a list of expressions between and outside the breakpoints.
 For example, the piecewise function considered above
 
-|       |       |           |
-|-------|-------|-----------|
-|       | 1 + x | x ≤ 1     |
-| f(x)= | 2     | 1 < x ≤ 2 |
-|       | 6 - 2 | 2 < x ≤ 3 |
-|       | 0     | x > 3     |
+$$f(x) = \begin{cases}
+    1 + x, & x \leq 1, \\
+    2, & 1 < x \leq 2, \\
+    6 - 2x, & 2 < x \leq 3, \\
+    0, & x > 3.
+\end{cases}$$
 
 in this way will be given as,[1, 2, 3], [1 + 𝑥, 2, 6 - 2 𝑥, 0].
 
 Piecewise function\
-[1, 2], [1, &radic; ̅1̅ ̅−̅ (̅𝑥̅ ̅−̅ ̅1̅)̅<sup>2</sup>̅, 0]
+$[1, 2], \quad \left[1, \sqrt{1 - (x - 1)^2}, 0\right]$
 
 # Завдання 7.5 (Варіант 15) 
 ### Графіки функцій двох змінних.
@@ -42,13 +42,14 @@ Piecewise function\
 списків: список абсцис вузлів зламу і список виразів між та поза точками зламу.
 Наприклад, розглянуту вище кускову функцію
 
-|       |       |           |
-|-------|-------|-----------|
-|       | 1 + x | x ≤ 1     |
-| f(x)= | 2     | 1 < x ≤ 2 |
-|       | 6 - 2 | 2 < x ≤ 3 |
-|       | 0     | x > 3     |
+$$f(x) = \begin{cases}
+    1 + x, & x \leq 1, \\
+    2, & 1 < x \leq 2, \\
+    6 - 2x, & 2 < x \leq 3, \\
+    0, & x > 3.
+\end{cases}$$
+
 таким способом задаватимемо у вигляді [1,2,3], [1 + 𝑥, 2, 6 − 2 𝑥, 0].
 
 Кускова функція\
-[1, 2], [1, &radic; ̅1̅ ̅−̅ (̅𝑥̅ ̅−̅ ̅1̅)̅<sup>2</sup>̅, 0]
+$[1, 2], \quad \left[1, \sqrt{1 - (x - 1)^2}, 0\right]$
