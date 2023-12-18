@@ -3,12 +3,12 @@
 Solve the system of linear equations in three ways: using the functions ```numpy.linalg.solve```, 
 the inverse matrix ```numpy.linalg.inv(a)``` and the Kramer method.
 
+$$\begin{cases}
+    2x_1 + x_2 - x_3 &= 2, \\
+    3x_1 + x_2 - 2x_3 &= 3, \\
+    x_1 + x_3 &= 3.
+\end{cases}$$
 
-| Linear equation system                             |
-|----------------------------------------------------|
-| 2x<sub>1</sub> +x<sub>2</sub> - x<sub>3</sub> = 2  |
-| 3x<sub>1</sub> +x<sub>2</sub> - 2x<sub>3</sub> = 3 | 
-| x<sub>1</sub> +x<sub>3</sub> = 3                   |
 
 # Завдання 6.4 (Варіант 15) 
 ### Системи лінійних рівнянь.
@@ -17,9 +17,9 @@ the inverse matrix ```numpy.linalg.inv(a)``` and the Kramer method.
 ```numpy.linalg.inv(a)``` та методом Крамера.
 
 
-| Система лінійних рівнянь                           |
-|----------------------------------------------------|
-| 2x<sub>1</sub> +x<sub>2</sub> - x<sub>3</sub> = 2  |
-| 3x<sub>1</sub> +x<sub>2</sub> - 2x<sub>3</sub> = 3 | 
-| x<sub>1</sub> +x<sub>3</sub> = 3                   |
+$$\begin{cases}
+    2x_1 + x_2 - x_3 &= 2, \\
+    3x_1 + x_2 - 2x_3 &= 3, \\
+    x_1 + x_3 &= 3.
+\end{cases}$$
 
