@@ -6,7 +6,7 @@ show the graph of the function, as well as the broken line, the coordinates of t
 table. The ranges of change of the function argument and the list of abscissa of the vertices of the broken
 set independently.
 
-y = -3 <sup>3</sup>&radic; ̅6̅(̅x̅+̅1̅)̅<sup>2</sup>̅/(x<sup>2</sup>+6x+17)
+$$y = -3\sqrt[3]{6\left(x + 1\right)^2} \left/ \left(x^2 + 6x + 17\right) \right.$$
 
 # Завдання 7.1 (Варіант 15) 
 ### Графік функції по точках.
@@ -16,4 +16,4 @@ y = -3 <sup>3</sup>&radic; ̅6̅(̅x̅+̅1̅)̅<sup>2</sup>̅/(x<sup>2</sup>+6x+
 таблиці. Діапазони зміни аргумента функції і список абсцис вершин ламаної
 задати самостійно.
 
-y = -3 <sup>3</sup>&radic; ̅6̅(̅x̅+̅1̅)̅<sup>2</sup>̅/(x<sup>2</sup>+6x+17)
+$$y = -3\sqrt[3]{6\left(x + 1\right)^2} \left/ \left(x^2 + 6x + 17\right) \right.$$
