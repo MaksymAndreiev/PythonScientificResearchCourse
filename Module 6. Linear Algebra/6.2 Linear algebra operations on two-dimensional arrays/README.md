@@ -7,20 +7,58 @@ the difference of matrices **A** and **B**. Calculate the matrix and elementary 
 of arrays **A** and **B**, calculate the difference between these products. Solve the matrix
 equation *A* *X* = *B* with respect to the matrix *X*.
 
-
-$$\mathbf{A} =
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Task \\
+\hline
+7 & 
+ \mathbf{A} =
+\begin{bmatrix}
+  1 & 3 & 0 \\
+  2 & 1 & -1 \\
+  0 & 2 & 1 \\
+\end{bmatrix}
+\mathbf{B} =
+\begin{bmatrix}
+  2 & 1 & 2 \\
+  3 & 0 & 2 \\
+  1 & 0 & 1 \\
+\end{bmatrix}
+\\
+\hline
+ 15 & 
+ \mathbf{A} =
 \begin{bmatrix}
   1 & 1 & 1 \\
   2 & 0 & 1 \\
   0 & 1 & 1 \\
-\end{bmatrix}$$
-
-$$\mathbf{B} =
+\end{bmatrix}
+\mathbf{B} =
 \begin{bmatrix}
   1 & 1 & 3 \\
   1 & 0 & 1 \\
   2 & 0 & 1 \\
-\end{bmatrix}$$
+\end{bmatrix}
+\\
+\hline
+16 & 
+ \mathbf{A} =
+\begin{bmatrix}
+  1 & 1 & 3 \\
+  1 & 0 & 1 \\
+  2 & 0 & 1 \\
+\end{bmatrix}
+\mathbf{B} =
+\begin{bmatrix}
+  1 & 0 & 0 \\
+  0 & -1 & 2 \\
+  3 & -1 & 1 \\
+\end{bmatrix}
+\\
+\hline
+\end{array}
+$$
 
 # Завдання 6.2 (Варіант 15) 
 ### Операції лінійної алгебри над двовимірними масивами.
@@ -34,16 +72,56 @@ $$\mathbf{B} =
 *A* *X* = *B*
 відносно матриці *X*. 
 
-$$\mathbf{A} =
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Завдання \\
+\hline
+7 & 
+ \mathbf{A} =
+\begin{bmatrix}
+  1 & 3 & 0 \\
+  2 & 1 & -1 \\
+  0 & 2 & 1 \\
+\end{bmatrix}
+\mathbf{B} =
+\begin{bmatrix}
+  2 & 1 & 2 \\
+  3 & 0 & 2 \\
+  1 & 0 & 1 \\
+\end{bmatrix}
+\\
+\hline
+ 15 & 
+ \mathbf{A} =
 \begin{bmatrix}
   1 & 1 & 1 \\
   2 & 0 & 1 \\
   0 & 1 & 1 \\
-\end{bmatrix}$$
-
-$$\mathbf{B} =
+\end{bmatrix}
+\mathbf{B} =
 \begin{bmatrix}
   1 & 1 & 3 \\
   1 & 0 & 1 \\
   2 & 0 & 1 \\
-\end{bmatrix}$$
+\end{bmatrix}
+\\
+\hline
+16 & 
+ \mathbf{A} =
+\begin{bmatrix}
+  1 & 1 & 3 \\
+  1 & 0 & 1 \\
+  2 & 0 & 1 \\
+\end{bmatrix}
+\mathbf{B} =
+\begin{bmatrix}
+  1 & 0 & 0 \\
+  0 & -1 & 2 \\
+  3 & -1 & 1 \\
+\end{bmatrix}
+\\
+\hline
+\end{array}
+$$
+
