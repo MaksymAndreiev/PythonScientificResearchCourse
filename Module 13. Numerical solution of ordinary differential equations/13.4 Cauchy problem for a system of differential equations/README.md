@@ -9,8 +9,8 @@ points 𝑡 = 𝑡<sub>0</sub> = 0. The ```odeint``` function creates solutions 
 𝑡 ≥ 𝑡<sub>0</sub>. And your graphs should only be plotted in the right half-plane 𝑡 ≥ 0.
 
 $$\begin{cases}
-\frac{d^2x}{dt^2} &= x - 4y, \quad x(0) = 2, \quad \dot{x}(0) = -\sqrt{3}, \\
-\frac{d^2y}{dt^2} &= -x + y, \quad y(0) = 0, \quad \dot{y}(0) = \frac{\sqrt{3}}{2}.
+\frac{d^2x}{dt^2} &= x - 4y, \quad x(0) = 2, \quad y(0) = 0, \\
+\frac{d^2y}{dt^2} &= -x + y, \quad x\'(0) = -\sqrt{3}, \quad y\'(0) = \frac{\sqrt{3}}{2}.
 \end{cases}$$
 
 # Завдання 13.4 (Варіант 15)
@@ -28,6 +28,6 @@ $$\begin{cases}
 𝑡 ≥ 𝑡<sub>0</sub>. І ваші графіки мають бути побудовані лише у правій півплощині 𝑡 ≥ 0.
 
 $$\begin{cases}
-\frac{d^2x}{dt^2} &= x - 4y, \quad x(0) = 2, \quad \dot{x}(0) = -\sqrt{3}, \\
-\frac{d^2y}{dt^2} &= -x + y, \quad y(0) = 0, \quad \dot{y}(0) = \frac{\sqrt{3}}{2}.
+\frac{d^2x}{dt^2} &= x - 4y, \quad x(0) = 2, \quad y(0) = 0, \\
+\frac{d^2y}{dt^2} &= -x + y, \quad x\'(0) = -\sqrt{3}, \quad y\'(0) = \frac{\sqrt{3}}{2}.
 \end{cases}$$

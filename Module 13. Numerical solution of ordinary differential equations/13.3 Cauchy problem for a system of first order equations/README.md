@@ -14,7 +14,7 @@ $$\begin{cases}
 \dot{x} &= x - y + 2\sin(t), \\
 \dot{y} &= 2x - y,
 \end{cases}
-\quad \(x(0) = -1\) and \(y(0) = 2\)$$
+\quad x(0) = -1,  y(0) = 2$$
 
 # Завдання 13.3 (Варіант 15)
 
@@ -34,4 +34,4 @@ $$\begin{cases}
 \dot{x} &= x - y + 2\sin(t), \\
 \dot{y} &= 2x - y,
 \end{cases}
-\quad \(x(0) = -1\) and \(y(0) = 2\)$$
+\quad x(0) = -1,  y(0) = 2$$
