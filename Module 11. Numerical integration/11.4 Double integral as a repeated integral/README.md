@@ -1,4 +1,4 @@
-# Task 11.3 (Variant 15)
+# Task 11.4 (Variant 15)
 
 ### Double integral as a repeated integral.
 
@@ -8,7 +8,7 @@ function ```ympy.integrate```, and numerically using the functions ```scipy.inte
 $$\int\int_D \left(\frac{4}{5}xy + \frac{9}{11}x^2y^2\right)dxdy$$
 $D\:x=1, y=x^3, y=-\sqrt{x}$
 
-# Завдання 11.3 (Варіант 15)
+# Завдання 11.4 (Варіант 15)
 
 ### Подвійний інтеграл як повторний.
 

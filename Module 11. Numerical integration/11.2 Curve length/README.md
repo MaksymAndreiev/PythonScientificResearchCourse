@@ -15,7 +15,7 @@ $$\begin{cases}
     x(t) = 6\(\cos(t)\+t\sin(t)\), \\
     y(t) = 6\(\sin(t)\-t\cos(t)\),
 \end{cases}
-\quad \text{for} \quad 0 \leq t \leq 4\pi.$$
+\quad \quad 0 \leq t \leq 4\pi.$$
 
 
 
@@ -38,4 +38,4 @@ $$\begin{cases}
     x(t) = 6\(\cos(t)\+t\sin(t)\), \\
     y(t) = 6\(\sin(t)\-t\cos(t)\),
 \end{cases}
-\quad \text{for} \quad 0 \leq t \leq 4\pi.$$
+\quad \quad 0 \leq t \leq 4\pi.$$
