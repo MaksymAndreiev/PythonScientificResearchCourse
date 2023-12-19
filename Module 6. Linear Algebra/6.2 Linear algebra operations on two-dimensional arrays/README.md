@@ -1,4 +1,4 @@
-# Task 6.2 (Variant 15)
+# Task 6.2
 ### Linear algebra operations on two-dimensional arrays.
 Using the functions of the ``numpy`` module, calculate the value of the matrix polynomial
 2*A*<sup>2</sup>+3*A*+5*E*, if *E* is a unit matrix. Find
@@ -60,7 +60,7 @@ $$
 \end{array}
 $$
 
-# Завдання 6.2 (Варіант 15) 
+# Завдання 6.2
 ### Операції лінійної алгебри над двовимірними масивами.
 Використовуючи функції модуля ``numpy``, обчислити значення
 матричного многочлена
