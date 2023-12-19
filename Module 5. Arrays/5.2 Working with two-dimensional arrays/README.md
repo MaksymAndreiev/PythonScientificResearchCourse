@@ -1,13 +1,20 @@
-# Task 5.2 (Variant 15)
-### Working with two-dimensional arrays.
-The matrix is given. For each column of the matrix find the product of its elements.
-Before the first column containing only positive elements, insert a column
-of units before the first column containing only positive elements. If there are no required columns, do nothing. Zero
-the elements of the matrix that lie on the side diagonal and below it.
+# Task 5.2
 
-# Завдання 5.2 (Варіант 15) 
+### Working with two-dimensional arrays.
+
+| No. | Task                                                                                                                                                                                                                                                                                                                                                                                            |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 7   | Generate a matrix of random integers of size 5 x 5. Construct a vector whose elements are the maxima of the elements of all diagonals parallel to the main one. Swap the row containing the maximum element with the row containing the minimum element. If there is more than one minimum (maximum) element, then select the line with a higher index.                                         |
+| 15  | This matrix. For each column of the matrix, find the product of its elements. Before the first column containing only positive elements, insert a column of units. If there are no required columns, then do nothing. Zero the elements of the matrix lying on the lateral diagonal and below it.                                                                                               |
+| 16  | This matrix. For each row of the matrix with an odd number, find the arithmetic mean of its elements and replace the initial elements of its rows with them. Before the first column containing only negative elements, insert a column of zeros. If there are no required columns, then do nothing. Zero the elements of the matrix that lie both above the main and above the side diagonals. |
+
+# Завдання 5.2
+
 ### Робота з двовимірними масивами.
-Дана матриця. Для кожного стовпця матриці знайти добуток її елементів.
-Перед першим стовпцем, що містить тільки додатні елементи, вставити стовпець
-з одиниць. Якщо необхідних стовпців немає, то нічого не робити. Обнулити
-елементи матриці, що лежать на побічній діагоналі і нижче неї.
+
+| №  | Завдання                                                                                                                                                                                                                                                                                                                                                                                   |
+|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 7  | Згенерувати матрицю випадкових цілих чисел розміром 5 x 5. Побудувати вектор, елементи якого є максимумами елементів всіх діагоналей, що паралельні головній. Поміняти місцями рядок, що містить максимальний елемент, з рядком, що містить мінімальний елемент. Якщо мінімальних (максимальних) елементів більш одного, то вибрати рядок з більшим індексом.                              |
+| 15 | Дана матриця. Для кожного стовпця матриці знайти добуток її елементів. Перед першим стовпцем, що містить тільки додатні елементи, вставити стовпець з одиниць. Якщо необхідних стовпців немає, то нічого не робити. Обнулити елементи матриці, що лежать на побічній діагоналі і нижче неї.                                                                                                |
+| 16 | Дана матриця. Для кожного рядка матриці з непарним номером знайти середнє арифметичне його елементів і замінити ними початкові елементи своїх рядків. Перед першим стовпцем, що містить тільки від’ємні елементи, вставити стовпець з нулів. Якщо необхідних стовпців немає, то нічого не робити. Обнулити елементи матриці, що лежать одночасно вище головної і вище побічної діагоналей. |
+
