@@ -1,4 +1,4 @@
-# Task 7.6 (Variant 15)
+# Task 7.6
 
 ### Graph of a piecewise function.
 
@@ -15,7 +15,7 @@ you can choose the range of arguments yourself.
 |  15 |  $[1, 2], \quad [x, 2 − x, 0]$ |
 |  16 |  $[1, 2, 3], \quad [1 + x, 2, −3 + 4x − x^2, 0]$ |
 
-# Завдання 7.6 (Варіант 15)
+# Завдання 7.6
 
 ### Графік кускової функції.
 
