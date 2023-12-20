@@ -23,18 +23,18 @@ Link: http://geometry.karazin.ua/en/~Dolya/documents#
 
 ## Зміст
 
-5. [Тема 5. Масиви](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/)\
+[Тема 5. Масиви](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/)\
    5.1. [Робота з одновимірними масивами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.1%20Working%20with%20one-dimensional%20arrays)\
    5.2. [Робота з двовимірними масивами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.2%20Working%20with%20two-dimensional%20arrays)\
    5.3. [Графічне зображення двовимірних масивів](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.3%20Graphical%20representation%20of%20two-dimensional%20arrays)
 
-6. [Тема 6. Лінійна алгебра](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra)\
+[Тема 6. Лінійна алгебра](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra)\
    6.1. [Робота з векторами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra/6.1%20Working%20with%20vectors)\
    6.2. [Операції лінійної алгебри над двовимірними масивами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra/6.2%20Linear%20algebra%20operations%20on%20two-dimensional%20arrays)\
    6.3. [Робота з матрицями і векторами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra/6.3%20Working%20with%20matrices%20and%20vectors)\
    6.4. [Системи лінійних рівнянь](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra/6.4%20Linear%20equation%20systems)
 
-7. [Тема 7. Графіки функцій, кривих та поверхонь](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces)\
+[Тема 7. Графіки функцій, кривих та поверхонь](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces)\
    7.1. [Графік функції по точках](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces/7.1%20Graph%20of%20a%20function%20by%20points)\
    7.2. [Графік кривої, яка задана неявним рівнянням](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces/7.2%20Graph%20the%20curve%20given%20by%20the%20implicit%20equation)\
    7.3. [Анімація кривої](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces/7.3%20Animation%20of%20a%20curve)\
@@ -42,32 +42,32 @@ Link: http://geometry.karazin.ua/en/~Dolya/documents#
    7.5. [Графіки функцій двох змінних](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces/7.5%20Graphs%20of%20functions%20of%20two%20variables)\
    7.6. [Графік кускової функції](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces/7.6%20Graph%20of%20a%20piecewise%20function)
 
-8. [Тема 8. Геометричні побудови](#topic-8)\
-   8.1. [Геометричні обчислення в просторовому трикутнику](#topic-8.1)\
-   8.2. [Паралелограм в просторі](#topic-8.2)\
-   8.3. [Геометричні обчислення в тетраедрі](#topic-8.3)\
-   8.4. [Побудова площини по трьом точкам](#topic-8.4)
+[Тема 8. Геометричні побудови](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%208.%20Geometric%20constructions)\
+   8.1. [Геометричні обчислення в просторовому трикутнику](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%208.%20Geometric%20constructions/8.1%20Geometric%20calculations%20in%20a%20triangle%20in%20space)\
+   8.2. [Паралелограм в просторі](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%208.%20Geometric%20constructions/8.2%20Parallelogram%20in%20space)\
+   8.3. [Геометричні обчислення в тетраедрі](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%208.%20Geometric%20constructions/8.3%20Geometric%20calculations%20in%20a%20tetrahedron)\
+   8.4. [Побудова площини по трьом точкам](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%208.%20Geometric%20constructions/8.4%20Constructing%20a%20plane%20from%20three%20points)
 
-9. [Тема 9. Символьні обчислення з модулем sympy](#topic-9)\
-   9.1. [Обчислення границь. Асимптоти](#topic-9.1)\
-   9.2. [Обчислення похідних. Дотичні](#topic-9.2)\
-   9.3. [Дотична і нормаль до кривої, яка задана неявно](#topic-9.3)\
-   9.4. [Частинні похідні. Нормаль до поверхні](#topic-9.4)
+[Тема 9. Символьні обчислення з модулем sympy](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%209.%20Symbolic%20calculations%20with%20the%20sympy%20module)\
+   9.1. [Обчислення границь. Асимптоти](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%209.%20Symbolic%20calculations%20with%20the%20sympy%20module/9.1%20Asymptotes)\
+   9.2. [Обчислення похідних. Дотичні](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%209.%20Symbolic%20calculations%20with%20the%20sympy%20module/9.2%20Tangents)\
+   9.3. [Дотична і нормаль до кривої, яка задана неявно](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%209.%20Symbolic%20calculations%20with%20the%20sympy%20module/9.3%20Tangent%20and%20normal%20to%20the%20curve%2C%20which%20is%20given%20implicitly)\
+   9.4. [Частинні похідні. Нормаль до поверхні](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%209.%20Symbolic%20calculations%20with%20the%20sympy%20module/9.4%20Partial%20derivatives)
 
-10. [Тема 10. Застосування символьної математики](#topic-10)\
-    10.1. [Пряма і площина у просторі](#topic-10.1)\
-    10.2. [Невизначений та визначений інтеграли](#topic-10.2)\
-    10.3. [Загальний розв’язок звичайних диференціальних рівнянь](#topic-10.3)\
-    10.4. [Обчислення маси платівки](#topic-10.4)
+[Тема 10. Застосування символьної математики](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2010.%20Application%20of%20symbolic%20mathematics)\
+    10.1. [Пряма і площина у просторі](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2010.%20Application%20of%20symbolic%20mathematics/10.1%20A%20line%20and%20a%20plane%20in%20space)\
+    10.2. [Невизначений та визначений інтеграли](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2010.%20Application%20of%20symbolic%20mathematics/10.2%20A%20line%20and%20a%20plane%20in%20space)\
+    10.3. [Загальний розв’язок звичайних диференціальних рівнянь](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2010.%20Application%20of%20symbolic%20mathematics/10.3%20General%20solution%20of%20ODE)\
+    10.4. [Обчислення маси платівки](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2010.%20Application%20of%20symbolic%20mathematics/10.4%20Weight%20of%20a%20plate)
 
-11. [Тема 11. Чисельне інтегрування](#topic-11)\
-    11.1. [Обчислення площі між двома кривими](#topic-11.1)\
-    11.2. [Довжина кривої](#topic-11.2)\
-    11.3. [Чисельне знаходження невизначених інтегралів](#topic-11.3)\
-    11.4. [Подвійний інтеграл як повторний](#topic-11.4)
+[Тема 11. Чисельне інтегрування](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2011.%20Numerical%20integration)\
+    11.1. [Обчислення площі між двома кривими](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2011.%20Numerical%20integration/11.1%20Area%20between%20two%20curves)\
+    11.2. [Довжина кривої](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2011.%20Numerical%20integration/11.2%20Curve%20length)\
+    11.3. [Чисельне знаходження невизначених інтегралів](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2011.%20Numerical%20integration/11.3%20Numerical%20solution%20of%20indefinite%20integrals)\
+    11.4. [Подвійний інтеграл як повторний](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2011.%20Numerical%20integration/11.4%20Double%20integral%20as%20a%20repeated%20integral)
 
-13. [Тема 13. Чисельне розв’язання звичайних диференціальних рівнянь](#topic-13)\
-    13.1. [Диференціальне рівняння першого порядку](#topic-13.1)\
-    13.2. [Диференціальне рівняння другого порядку](#topic-13.2)\
-    13.3. [Задача Коші для системи рівнянь першого порядку](#topic-13.3)\
-    13.4. [Задача Коші для системи диференціальних рівнянь](#topic-13.4)
+[Тема 13. Чисельне розв’язання звичайних диференціальних рівнянь](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2013.%20Numerical%20solution%20of%20ordinary%20differential%20equations)\
+    13.1. [Диференціальне рівняння першого порядку](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2013.%20Numerical%20solution%20of%20ordinary%20differential%20equations/13.1%20First%20order)\
+    13.2. [Диференціальне рівняння другого порядку](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2013.%20Numerical%20solution%20of%20ordinary%20differential%20equations/13.2%20Second%20order)\
+    13.3. [Задача Коші для системи рівнянь першого порядку](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2013.%20Numerical%20solution%20of%20ordinary%20differential%20equations/13.3%20Cauchy%20problem%20for%20a%20system%20of%20first%20order%20equations)\
+    13.4. [Задача Коші для системи диференціальних рівнянь](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2013.%20Numerical%20solution%20of%20ordinary%20differential%20equations/13.4%20Cauchy%20problem%20for%20a%20system%20of%20differential%20equations)
