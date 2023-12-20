@@ -34,13 +34,13 @@ Link: http://geometry.karazin.ua/en/~Dolya/documents#
    6.3. [Робота з матрицями і векторами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra/6.3%20Working%20with%20matrices%20and%20vectors)\
    6.4. [Системи лінійних рівнянь](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra/6.4%20Linear%20equation%20systems)
 
-7. [Тема 7. Графіки функцій, кривих та поверхонь](#topic-7)\
-   7.1. [Графік функції по точках](#topic-7.1)\
-   7.2. [Графік кривої, яка задана неявним рівнянням](#topic-7.2)\
-   7.3. [Анімація кривої](#topic-7.3)\
-   7.4. [Анімація руху точки вздовж кривої](#topic-7.4)\
-   7.5. [Графіки функцій двох змінних](#topic-7.5)\
-   7.6. [Графік кускової функції](#topic-7.6)
+7. [Тема 7. Графіки функцій, кривих та поверхонь](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces)\
+   7.1. [Графік функції по точках](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces/7.1%20Graph%20of%20a%20function%20by%20points)\
+   7.2. [Графік кривої, яка задана неявним рівнянням](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces/7.2%20Graph%20the%20curve%20given%20by%20the%20implicit%20equation)\
+   7.3. [Анімація кривої](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces/7.3%20Animation%20of%20a%20curve)\
+   7.4. [Анімація руху точки вздовж кривої](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces/7.4%20Animation%20of%20a%20point%20along%20a%20curve)\
+   7.5. [Графіки функцій двох змінних](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces/7.5%20Graphs%20of%20functions%20of%20two%20variables)\
+   7.6. [Графік кускової функції](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%207.%20Graph%20functions%2C%20curves%2C%20and%20surfaces/7.6%20Graph%20of%20a%20piecewise%20function)
 
 8. [Тема 8. Геометричні побудови](#topic-8)\
    8.1. [Геометричні обчислення в просторовому трикутнику](#topic-8.1)\
