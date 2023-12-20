@@ -1,4 +1,4 @@
-# Task 7.3 (Variant 15)
+# Task 7.3
 ### Animation of a curve.
 Create an animation of the curve movement on a given time interval.
 
@@ -22,7 +22,7 @@ x \sin(t) & \(x, 0, 1\)\(t, 0, 2\pi\)
 \end{array}
 $$
 
-# Завдання 7.3 (Варіант 15) 
+# Завдання 7.3
 ### Анімація кривої.
 Побудувати анімацію руху кривої на заданому відрізку часу.
 
