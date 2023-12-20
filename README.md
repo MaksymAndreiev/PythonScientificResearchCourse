@@ -13,7 +13,9 @@ Faculty of Mathematics and Informatics, Department of Theoretical and Applied In
 of the Department of Theoretical and Applied Informatics, PhD in Engineering Petro Hryhorovych Dolya.
 Link: http://geometry.karazin.ua/en/~Dolya/documents#
 
-# Contents
+Topics 5-11 and topic 13 were completed for the final examination.
+
+## Contents
 
 [Topic 5. Arrays](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/)\
    5.1. [Working with one-dimensional arrays](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.1%20Working%20with%20one-dimensional%20arrays)\
@@ -72,6 +74,8 @@ Link: http://geometry.karazin.ua/en/~Dolya/documents#
 Дисципліна надавалась факультетом математики і інформатики, кафедрою теоретичної та прикладної інформатики. Викладач
 доцент кафедри теоретичної та прикладної інформатики, кандидат технічних наук Доля Петро Григорович.
 Посилання: http://geometry.karazin.ua/~Dolya/documents#
+
+Для залікової роботи було виконано теми 5-11 та тема 13.
 
 ## Зміст
 
