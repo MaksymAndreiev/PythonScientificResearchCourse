@@ -20,12 +20,14 @@ $$
   3 & 0 & 4 \\
   1 & -1 & 2 \\
 \end{bmatrix}
+\,
 \mathbf{B} =
 \begin{bmatrix}
   0 & 2 & 3 \\
   4 & 1 & 0 \\
   2 & -1 & -2 \\
 \end{bmatrix}
+\, x = \(-4, 2, 1\), \quad y = (A \cdot B) \cdot x
 \\
 \hline
  15 & 
