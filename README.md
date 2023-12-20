@@ -23,8 +23,8 @@ Link: http://geometry.karazin.ua/en/~Dolya/documents#
 
 ## Зміст
 
-5. [Тема 5. Масиви](#topic-5)\
-   5.1. [Робота з одновимірними масивами](#topic-5.1)\
+5. [Тема 5. Масиви](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/)\
+   5.1. [Робота з одновимірними масивами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.1%20Working%20with%20one-dimensional%20arrays)\
    5.2. [Робота з двовимірними масивами](#topic-5.2)\
    5.3. [Графічне зображення двовимірних масивів](#topic-5.3)
 
