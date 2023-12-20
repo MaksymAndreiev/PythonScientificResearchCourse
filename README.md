@@ -25,8 +25,8 @@ Link: http://geometry.karazin.ua/en/~Dolya/documents#
 
 5. [Тема 5. Масиви](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/)\
    5.1. [Робота з одновимірними масивами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.1%20Working%20with%20one-dimensional%20arrays)\
-   5.2. [Робота з двовимірними масивами](#topic-5.2)\
-   5.3. [Графічне зображення двовимірних масивів](#topic-5.3)
+   5.2. [Робота з двовимірними масивами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.2%20Working%20with%20two-dimensional%20arrays)\
+   5.3. [Графічне зображення двовимірних масивів](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.3%20Graphical%20representation%20of%20two-dimensional%20arrays)
 
 6. [Тема 6. Лінійна алгебра](#topic-6)\
    6.1. [Робота з векторами](#topic-6.1)\
