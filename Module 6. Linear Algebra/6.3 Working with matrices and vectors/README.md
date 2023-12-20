@@ -6,21 +6,60 @@ which is given in the condition by the matrix expression, and the vector
 (relative to the vector **u**) using the inverse matrix. Find the maximum 
 element of the matrix **B**.
 
-**x** = {7,−2,3}, **y** = (**BA<sup>2</sup>** - **AB**)**x**\
+**x** = {7,−2,3}, **y** = (**BA<sup>2</sup>** - **AB**)**x**
 
-$$\mathbf{A} =
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Task \\
+\hline
+7 & 
+ \mathbf{A} =
+\begin{bmatrix}
+  2 & 1 & 0 \\
+  3 & 0 & 4 \\
+  1 & -1 & 2 \\
+\end{bmatrix}
+\mathbf{B} =
+\begin{bmatrix}
+  0 & 2 & 3 \\
+  4 & 1 & 0 \\
+  2 & -1 & -2 \\
+\end{bmatrix}
+\\
+\hline
+ 15 & 
+\mathbf{A} =
 \begin{bmatrix}
   2 & 0 & 1 \\
   3 & 0 & 2 \\
   -1 & 1 & 2 \\
-\end{bmatrix}$$
-
-$$\mathbf{B} =
+\end{bmatrix}
+\mathbf{B} =
 \begin{bmatrix}
   0 & 3 & 2 \\
   2 & 1 & -1 \\
   0 & -1 & 2 \\
-\end{bmatrix}$$
+\end{bmatrix}
+\\
+\hline
+16 & 
+ \mathbf{A} =
+\begin{bmatrix}
+  1 & 0 & 2 \\
+  3 & -1 & 0 \\
+  1 & 1 & -2 \\
+\end{bmatrix}
+\mathbf{B} =
+\begin{bmatrix}
+  2 & 1 & 0 \\
+  3 & 0 & 4 \\
+  1 & -1 & -2 \\
+\end{bmatrix}
+\\
+\hline
+\end{array}
+$$
 
 # Завдання 6.3 (Варіант 15) 
 ### Робота з матрицями і векторами.
@@ -31,16 +70,55 @@ $$\mathbf{B} =
 
 **x** = {7,−2,3}, **y** = (**BA<sup>2</sup>** - **AB**)**x**
 
-$$\mathbf{A} =
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Завдання \\
+\hline
+7 & 
+ \mathbf{A} =
+\begin{bmatrix}
+  2 & 1 & 0 \\
+  3 & 0 & 4 \\
+  1 & -1 & 2 \\
+\end{bmatrix}
+\mathbf{B} =
+\begin{bmatrix}
+  0 & 2 & 3 \\
+  4 & 1 & 0 \\
+  2 & -1 & -2 \\
+\end{bmatrix}
+\\
+\hline
+ 15 & 
+\mathbf{A} =
 \begin{bmatrix}
   2 & 0 & 1 \\
   3 & 0 & 2 \\
   -1 & 1 & 2 \\
-\end{bmatrix}$$
-
-$$\mathbf{B} =
+\end{bmatrix}
+\mathbf{B} =
 \begin{bmatrix}
   0 & 3 & 2 \\
   2 & 1 & -1 \\
   0 & -1 & 2 \\
-\end{bmatrix}$$
+\end{bmatrix}
+\\
+\hline
+16 & 
+ \mathbf{A} =
+\begin{bmatrix}
+  1 & 0 & 2 \\
+  3 & -1 & 0 \\
+  1 & 1 & -2 \\
+\end{bmatrix}
+\mathbf{B} =
+\begin{bmatrix}
+  2 & 1 & 0 \\
+  3 & 0 & 4 \\
+  1 & -1 & -2 \\
+\end{bmatrix}
+\\
+\hline
+\end{array}
+$$
