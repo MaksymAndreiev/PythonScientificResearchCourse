@@ -28,11 +28,11 @@ Link: http://geometry.karazin.ua/en/~Dolya/documents#
    5.2. [Робота з двовимірними масивами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.2%20Working%20with%20two-dimensional%20arrays)\
    5.3. [Графічне зображення двовимірних масивів](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.3%20Graphical%20representation%20of%20two-dimensional%20arrays)
 
-6. [Тема 6. Лінійна алгебра](#topic-6)\
-   6.1. [Робота з векторами](#topic-6.1)\
-   6.2. [Операції лінійної алгебри над двовимірними масивами](#topic-6.2)\
-   6.3. [Робота з матрицями і векторами](#topic-6.3)\
-   6.4. [Системи лінійних рівнянь](#topic-6.4)
+6. [Тема 6. Лінійна алгебра](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra)\
+   6.1. [Робота з векторами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra/6.1%20Working%20with%20vectors)\
+   6.2. [Операції лінійної алгебри над двовимірними масивами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra/6.2%20Linear%20algebra%20operations%20on%20two-dimensional%20arrays)\
+   6.3. [Робота з матрицями і векторами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra/6.3%20Working%20with%20matrices%20and%20vectors)\
+   6.4. [Системи лінійних рівнянь](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%206.%20Linear%20Algebra/6.4%20Linear%20equation%20systems)
 
 7. [Тема 7. Графіки функцій, кривих та поверхонь](#topic-7)\
    7.1. [Графік функції по точках](#topic-7.1)\
