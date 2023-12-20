@@ -13,7 +13,11 @@ Faculty of Mathematics and Informatics, Department of Theoretical and Applied In
 of the Department of Theoretical and Applied Informatics, PhD in Engineering Petro Hryhorovych Dolya.
 Link: http://geometry.karazin.ua/en/~Dolya/documents#
 
-Topics 5-11 and topic 13 were completed for the final examination.
+Topics 5-11 and topic 13 were completed for the final examination. Topics 5-11 and topic 13 were completed for the final examination. Options 7, 15, 16 and 17 are available.\
+Implementation of option 7: [MaksymAndreiev](https://github.com/MaksymAndreiev)\
+Implementation of option 15: [MaksymAndreiev](https://github.com/MaksymAndreiev)\
+Implementation of option 16: [VladislavKomeristiy](https://github.com/VladislavKomeristiy)\
+Implementation of option 17:
 
 ## Contents
 
@@ -75,7 +79,11 @@ Topics 5-11 and topic 13 were completed for the final examination.
 доцент кафедри теоретичної та прикладної інформатики, кандидат технічних наук Доля Петро Григорович.
 Посилання: http://geometry.karazin.ua/~Dolya/documents#
 
-Для залікової роботи було виконано теми 5-11 та тема 13.
+Для залікової роботи було виконано теми 5-11 та тема 13. Доступні варіанти 7, 15, 16 та 17.\
+Виконання варіанту 7: [MaksymAndreiev](https://github.com/MaksymAndreiev)\
+Виконання варіанту 15: [MaksymAndreiev](https://github.com/MaksymAndreiev)\
+Виконання варіанту 16: [VladislavKomeristiy](https://github.com/VladislavKomeristiy)\
+Виконання варіанту 17:
 
 ## Зміст
 
