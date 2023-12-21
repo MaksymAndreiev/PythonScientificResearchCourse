@@ -11,13 +11,30 @@ where t<sub>0</sub> and t<sub>1</sub> are the values of the parameter at the sta
 Set the functions x(t), y(t) symbolically and calculate the integral expression $\sqrt{(x'(t))^2 + (y'(t))^2} $. Convert
 it to a ```numpy``` function to use for numerical integration.
 
-$$\begin{cases}
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Task
+\\
+\hline
+ 15 & 
+\begin{cases}
     x(t) = 6\(\cos(t)\+t\sin(t)\), \\
     y(t) = 6\(\sin(t)\-t\cos(t)\),
 \end{cases}
-\quad \quad 0 \leq t \leq 4\pi.$$
-
-
+\quad \quad 0 \leq t \leq 4\pi.
+\\
+\hline
+16 & 
+\begin{cases}
+    x(t) = \cos(t)\+\sin(t), \\
+    y(t) = \cos(t)\-\sin(t),
+\end{cases}
+\quad \quad 0 \leq t \leq 2\pi.
+\\
+\hline
+\end{array}
+$$
 
 # Завдання 11.2 (Варіант 15)
 
@@ -34,8 +51,28 @@ $$L = \int_{t_0}^{t_1} \sqrt{(x'(t))^2 + (y'(t))^2} \, dt$$
 $\sqrt{(x'(t))^2 + (y'(t))^2} $. Перетворіть його на ```numpy``` функцію, яку використайте при
 чисельному інтегруванні.
 
-$$\begin{cases}
+
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Завдання
+\\
+\hline
+ 15 & 
+\begin{cases}
     x(t) = 6\(\cos(t)\+t\sin(t)\), \\
     y(t) = 6\(\sin(t)\-t\cos(t)\),
 \end{cases}
-\quad \quad 0 \leq t \leq 4\pi.$$
+\quad \quad 0 \leq t \leq 4\pi.
+\\
+\hline
+16 & 
+\begin{cases}
+    x(t) = \cos(t)\+\sin(t), \\
+    y(t) = \cos(t)\-\sin(t),
+\end{cases}
+\quad \quad 0 \leq t \leq 2\pi.
+\\
+\hline
+\end{array}
+$$
