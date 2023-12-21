@@ -1,4 +1,4 @@
-# Task 10.1 (Variant 15)
+# Task 10.1
 
 ### A line and a plane in space.
 
@@ -14,9 +14,24 @@ normalize (bring to unit length) and apply in the parametric equations of lines 
 𝑡, where 𝒓𝑀 is the radius vector of point M, 𝒂 is the direction vector of the corresponding line.
 As a result of solving the problem, you should get a picture similar to the following one.
 
-$$\frac{x - 2}{2} = \frac{y - 2}{-1} = \frac{z - 4}{3}$$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Equation \quad of \quad the \quad line \quad L & Equation \quad of \quad the \quad plane \quad P
+\\
+\hline
+ 15 & 
+\frac{x - 2}{2} = \frac{y - 2}{-1} = \frac{z - 4}{3} & x + 3y + 5z - 42 = 0
+\\
+\hline
+16 & 
+\frac{x - 3}{-1} = \frac{y - 4}{5} = \frac{z - 4}{2} & -7x + y + 4z + 6 = 0
+\\
+\hline
+\end{array}
+$$
 
-# Завдання 10.1 (Варіант 15)
+# Завдання 10.1
 
 ### Пряма і площина у просторі.
 
@@ -36,4 +51,19 @@ $$\frac{x - 2}{2} = \frac{y - 2}{-1} = \frac{z - 4}{3}$$
 В результаті розв'язання задачі ви повинні отримати рисунок схожий на
 наступний.
 
-$$\frac{x - 2}{2} = \frac{y - 2}{-1} = \frac{z - 4}{3}$$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Рівняння \quad прямої \quad L & Рівняння \quad площини \quad P
+\\
+\hline
+ 15 & 
+\frac{x - 2}{2} = \frac{y - 2}{-1} = \frac{z - 4}{3} & x + 3y + 5z - 42 = 0
+\\
+\hline
+16 & 
+\frac{x - 3}{-1} = \frac{y - 4}{5} = \frac{z - 4}{2} & -7x + y + 4z + 6 = 0
+\\
+\hline
+\end{array}
+$$
