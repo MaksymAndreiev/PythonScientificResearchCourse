@@ -1,4 +1,4 @@
-# Task 9.2 (Variant 15)
+# Task 9.2
 
 ### Calculating derivatives. Tangents.
 
@@ -13,9 +13,23 @@ Hint 2. So that the normal appears perpendicular to the tangent on the graph
 it is necessary to have the same scale on both axes, which is specified by the instruction
 ```ax.axis('equal')```.
 
-$$y = \frac{\sqrt{(1+x^2) \cdot 3}}{3x^3}$$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Task\\
+\hline
+ 15 & 
+y = \frac{\sqrt{(1+x^2) \cdot 3}}{3x^3}
+\\
+\hline
+16 & 
+y = \frac{x^6 + 8x^3 - 128}{\sqrt{8 + x^3}}
+\\
+\hline
+\end{array}
+$$
 
-# Завдання 9.2 (Варіант 15)
+# Завдання 9.2
 
 ### Обчислення похідних. Дотичні.
 
@@ -30,4 +44,18 @@ $$y = \frac{\sqrt{(1+x^2) \cdot 3}}{3x^3}$$
 потрібно мати однаковий масштаб по обом осям, який задається інструкцією
 ```ax.axis('equal')```.
 
-$$y = \frac{\sqrt{(1+x^2) \cdot 3}}{3x^3}$$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Завдання\\
+\hline
+ 15 & 
+y = \frac{\sqrt{(1+x^2) \cdot 3}}{3x^3}
+\\
+\hline
+16 & 
+y = \frac{x^6 + 8x^3 - 128}{\sqrt{8 + x^3}}
+\\
+\hline
+\end{array}
+$$
