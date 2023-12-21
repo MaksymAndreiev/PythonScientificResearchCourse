@@ -8,6 +8,23 @@ solution. On the graph, choose the range of change of the x argument yourself.
 
 y'' + y = 2cos(5x) + 3sin(5x)
 
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Task
+\\
+\hline
+ 15 & 
+y'' + y = 2\cos(5x) + 3\sin(5x)
+\\
+\hline
+16 & 
+y'' + 2y' + 5y = -17\sin(2x)
+\\
+\hline
+\end{array}
+$$
+
 # Завдання 10.3 (Варіант 15)
 
 ### Загальний розв’язок звичайних диференціальних рівнянь.
@@ -17,4 +34,19 @@ y'' + y = 2cos(5x) + 3sin(5x)
 C<sub>1</sub> = 1, C<sub>2</sub> = -1 та побудувати графік такого окремого розв’язку. На графіку діапазон зміни
 аргументу x підібрати самостійно.
 
-y'' + y = 2cos(5x) + 3sin(5x)
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Завдання
+\\
+\hline
+ 15 & 
+y'' + y = 2\cos(5x) + 3\sin(5x)
+\\
+\hline
+16 & 
+y'' + 2y' + 5y = -17\sin(2x)
+\\
+\hline
+\end{array}
+$$
