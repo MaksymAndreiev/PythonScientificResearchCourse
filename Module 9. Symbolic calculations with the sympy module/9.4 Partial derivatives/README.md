@@ -1,4 +1,4 @@
-# Task 9.4 (Variant 15)
+# Task 9.4
 
 ### Partial derivatives. Normal to the surface.
 
@@ -18,10 +18,23 @@ with the instructions\
 If this is not done, the normal vector in the figure may not look like
 normal.
 
-𝑧 = 𝑥<sup>2</sup> + 𝑥𝑦 + 𝑦<sup>2</sup> − 𝑥 + 3𝑦\
-𝑥<sub>0</sub> = −0.5; 𝑦<sub>0</sub> = 0.7;
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Function & Points\\
+\hline
+ 15 & 
+z = x^2 + xy + y^2 - x + 3y & x_{0} = -0.5; \quad y_{0} = 0.7;
+\\
+\hline
+16 & 
+z = x^2 - 2xy + y^4 - y^5 & x_{0} = -0.5; \quad y_{0} = 0.7; 
+\\
+\hline
+\end{array}
+$$
 
-# Завдання 9.4 (Варіант 15)
+# Завдання 9.4
 
 ### Частинні похідні. Нормаль до поверхні.
 
@@ -42,5 +55,18 @@ normal.
 Якщо це не зробити, то вектор нормалі на рисунку може не виглядати як
 нормаль.
 
-𝑧 = 𝑥<sup>2</sup> + 𝑥𝑦 + 𝑦<sup>2</sup> − 𝑥 + 3𝑦\
-𝑥<sub>0</sub> = −0.5; 𝑦<sub>0</sub> = 0.7;
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Функції & Точки\\
+\hline
+ 15 & 
+z = x^2 + xy + y^2 - x + 3y & x_{0} = -0.5; \quad y_{0} = 0.7;
+\\
+\hline
+16 & 
+z = x^2 - 2xy + y^4 - y^5 & x_{0} = -0.5; \quad y_{0} = 0.7; 
+\\
+\hline
+\end{array}
+$$
