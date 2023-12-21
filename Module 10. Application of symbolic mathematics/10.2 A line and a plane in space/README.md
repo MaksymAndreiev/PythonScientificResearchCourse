@@ -1,4 +1,4 @@
-# Task 10.2 (Variant 15)
+# Task 10.2
 
 ### A line and a plane in space.
 
@@ -7,9 +7,24 @@ integration 𝑎, 𝑏 are chosen independently. Plot the graphs of the integral
 of integration arbitrarily, for example, put 0) and the zone whose area is represented by the definite integral. On the
 graphs of the curves, the intervals for the independent variable should be wider than the integration zone.
 
-$$\int \arctan(\sqrt{3x - 1}) \, dx$$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Task
+\\
+\hline
+ 15 & 
+\int \arctan\sqrt{3x - 1}dx
+\\
+\hline
+16 & 
+\int \arctan\sqrt{5x - 1}dx
+\\
+\hline
+\end{array}
+$$
 
-# Завдання 10.2 (Варіант 15)
+# Завдання 10.2
 
 ### Невизначений та визначений інтеграли.
 
@@ -20,4 +35,19 @@ $$\int \arctan(\sqrt{3x - 1}) \, dx$$
 графіках кривих інтервали для незалежної змінної взяти ширшими за зону
 інтегрування.
 
-$$\int \arctan(\sqrt{3x - 1}) \, dx$$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Завдання
+\\
+\hline
+ 15 & 
+\int \arctan\sqrt{3x - 1}dx
+\\
+\hline
+16 & 
+\int \arctan\sqrt{5x - 1}dx
+\\
+\hline
+\end{array}
+$$
