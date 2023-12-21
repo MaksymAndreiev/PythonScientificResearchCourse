@@ -7,7 +7,21 @@ choose. Draw a graph of the curve, showing all the points and all the tangents a
 for the curves in each option are to be chosen independently. As a result, you should get an image that looks something
 like the following.
 
-x<sup>2</sup> - 6xy - 7y<sup>2</sup> + 10x - 30y + 23 = 0
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Task\\
+\hline
+ 15 & 
+x^2 - 6xy - 7y^2 + 10x - 30y + 23 = 0
+\\
+\hline
+16 & 
+8x^2 - 12xy + 17y^2 + 16x - 12y + 3 = 0
+\\
+\hline
+\end{array}
+$$
 
 # Завдання 9.3 (Варіант 15)
 
@@ -19,4 +33,18 @@ x<sup>2</sup> - 6xy - 7y<sup>2</sup> + 10x - 30y + 23 = 0
 зображення кривих в кожному варіанті підбирати самостійно. В результаті ви
 повинні отримати зображення щось на зразок наступного.
 
-x<sup>2</sup> - 6xy - 7y<sup>2</sup> + 10x - 30y + 23 = 0
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Завдання\\
+\hline
+ 15 & 
+x^2 - 6xy - 7y^2 + 10x - 30y + 23 = 0
+\\
+\hline
+16 & 
+8x^2 - 12xy + 17y^2 + 16x - 12y + 3 = 0
+\\
+\hline
+\end{array}
+$$
