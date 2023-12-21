@@ -1,4 +1,4 @@
-# Task 10.3 (Variant 15)
+# Task 10.3
 
 ### General solution of ordinary differential equations.
 
@@ -25,7 +25,7 @@ y'' + 2y' + 5y = -17\sin(2x)
 \end{array}
 $$
 
-# Завдання 10.3 (Варіант 15)
+# Завдання 10.3
 
 ### Загальний розв’язок звичайних диференціальних рівнянь.
 
