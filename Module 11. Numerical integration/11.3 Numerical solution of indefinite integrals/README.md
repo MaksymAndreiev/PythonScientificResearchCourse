@@ -29,7 +29,23 @@ of the expression at the point ```x0'''. Use it to construct another straight li
 increasing the number of points by which the array of ordinates ```yint''' of the original is calculated, the discrepancy between the tangent graphs
 should decrease (check it).
 
-$$\int (4 - 16x) \sin(4x) \, dx$$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Task
+\\
+\hline
+ 15 & 
+\int (4 - 16x) \sin(4x) \, dx
+\\
+\hline
+16 & 
+\int (5x - 2)e^{3x} \, dx
+\\
+\hline
+\end{array}
+$$
+
 
 # Завдання 11.3 (Варіант 15)
 
@@ -62,4 +78,19 @@ $\(y'(x_0) \approx \frac{y(x_0 + \Delta x) - y(x_0)}{\Delta x}\)$. Для обо
 збільшенні кількості точок, по яким обчислюється масив ординат ```yint``` первісної, розбіжність між графіками дотичних
 повинна зменшуватися (перевірте це).
 
-$$\int (4 - 16x) \sin(4x) \, dx$$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Завдання
+\\
+\hline
+ 15 & 
+\int (4 - 16x) \sin(4x) \, dx
+\\
+\hline
+16 & 
+\int (5x - 2)e^{3x} \, dx
+\\
+\hline
+\end{array}
+$$
