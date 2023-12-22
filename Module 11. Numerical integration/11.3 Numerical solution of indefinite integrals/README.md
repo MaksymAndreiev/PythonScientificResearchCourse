@@ -15,7 +15,10 @@ The value of $\(x_0\)$, intervals of the independent variable on the graphs, as 
 As a result of solving the problem, you should get a drawing similar to
 for example, on the next one.
 
-**Hint.** To select a point on the graph of the original, it is desirable to use the abscissa $\(x\)$ among the values of the array, which were calculated
+![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/33370ae3-6942-4f3d-9601-b3c2caacb06a)
+
+
+***Hint.*** To select a point on the graph of the original, it is desirable to use the abscissa $\(x\)$ among the values of the array, which were calculated
 the value of the ordinate $\(y_{\text{int}}\)$, determine the index $\(i_0\)$ of the element that is equal to $\(x_0\)$ (the value of $\(x_0\)$
 must be
 among the elements of $\(x\))$. This can be done, for example, by the instruction $\(i_0 = \text{np.where}(x==x_0)[0][0]\)$. Then
@@ -64,7 +67,9 @@ $\(y'(x_0) \approx \frac{y(x_0 + \Delta x) - y(x_0)}{\Delta x}\)$. Для обо
 В результаті розв'язання задачі ви повинні отримати рисунок схожий,
 наприклад, на наступний.
 
-**Вказівка.** Для вибору точки на графіку первісної бажано серед значень масиву абсцис $\(x\)$, по яким обчислювалися
+![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/33370ae3-6942-4f3d-9601-b3c2caacb06a)
+
+***Вказівка.*** Для вибору точки на графіку первісної бажано серед значень масиву абсцис $\(x\)$, по яким обчислювалися
 значення ординат $\(y_{\text{int}}\)$, визначити індекс $\(i_0\)$ елемента, який дорівнює $\(x_0\)$ (значення $\(x_0\)$
 має бути
 серед елементів $\(x\))$. Це можна зробити, наприклад, інструкцією $\(i_0 = \text{np.where}(x==x_0)[0][0]\)$. Тоді
