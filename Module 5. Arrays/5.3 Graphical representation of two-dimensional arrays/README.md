@@ -3,7 +3,7 @@
 The matrix is given. For each column of the matrix find the product of its elements.
 Before the first column containing only positive elements, insert a column
 of units before the first column containing only positive elements. If there are no required columns, do nothing. Zero
-the elements of the matrix that lie on the side diagonal and below it.\
+the elements of the matrix that lie on the side diagonal and below it.
 
 
 | №  | Image  |
@@ -19,7 +19,7 @@ the elements of the matrix that lie on the side diagonal and below it.\
 всередині. Форма фігури наведена у варіанті. Розміри і положення фігури та
 товщину рамки обрати самостійно. Результівне зображення збережіть в
 графічний файл в каталог з вашими Python-сценаріями, бо в подальшому він
-(файл) знадобиться для роботи.\
+(файл) знадобиться для роботи.
 
 | №  | Зображення  |
 |---|---|
