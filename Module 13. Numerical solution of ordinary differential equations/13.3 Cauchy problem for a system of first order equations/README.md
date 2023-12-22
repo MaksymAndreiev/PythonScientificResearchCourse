@@ -35,6 +35,11 @@ $$
 \end{array}
 $$
 
+| №  | Image  |
+|---|---|
+|  15 |  ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/4535b94b-1fec-4585-8e3b-a328b4a5f0b4) |
+|  16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/fed1cd4b-40f5-43ac-bd6e-bded5f0d35bd) |
+
 # Завдання 13.3
 
 ### Задача Коші для системи рівнянь першого порядку.
@@ -73,3 +78,8 @@ $$
 \hline
 \end{array}
 $$
+
+| №  | Зображення  |
+|---|---|
+|  15 |  ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/4535b94b-1fec-4585-8e3b-a328b4a5f0b4) |
+|  16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/fed1cd4b-40f5-43ac-bd6e-bded5f0d35bd) |
