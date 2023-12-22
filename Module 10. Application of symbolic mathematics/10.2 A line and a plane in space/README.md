@@ -13,11 +13,11 @@ $$
 \text № & Task
 \\
 \hline
- 15 & 
+15 &
 \int \arctan\sqrt{3x - 1}dx
 \\
 \hline
-16 & 
+16 &
 \int \arctan\sqrt{5x - 1}dx
 \\
 \hline
@@ -41,11 +41,11 @@ $$
 \text № & Завдання
 \\
 \hline
- 15 & 
+15 &
 \int \arctan\sqrt{3x - 1}dx
 \\
 \hline
-16 & 
+16 &
 \int \arctan\sqrt{5x - 1}dx
 \\
 \hline

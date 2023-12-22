@@ -3,7 +3,8 @@
 ### Double integral as a repeated integral.
 
 Find the double integral over the domain D. The calculation can be performed in three ways: symbolically using the
-function ```ympy.integrate```, and numerically using the functions ```scipy.integrate.dblquad``` and ```scipy.integrate.nquad```. Graphically represent the integration domain D and its bounding curves.
+function ```ympy.integrate```, and numerically using the functions ```scipy.integrate.dblquad```
+and ```scipy.integrate.nquad```. Graphically represent the integration domain D and its bounding curves.
 
 $$
 \begin{array}{|r|r|}
@@ -11,12 +12,12 @@ $$
 \text № & Task
 \\
 \hline
- 15 & 
+15 &
 \int\int_D \left(\frac{4}{5}xy + 9x^2y^2\right)dxdy\newline
 &D\:x=1, y=x^3, y=-\sqrt{x}
 \\
 \hline
-16 & 
+16 &
 \int\int_D \left(\frac{4}{5}xy + \frac{9}{11}x^2y^2\right)dxdy\newline
 &D\:x=1, y=-x^3, y=\sqrt{x}
 \\
@@ -40,12 +41,12 @@ $$
 \text № & Завдання
 \\
 \hline
- 15 & 
+15 &
 \int\int_D \left(\frac{4}{5}xy + 9x^2y^2\right)dxdy\newline
 &D\:x=1, y=x^3, y=-\sqrt{x}
 \\
 \hline
-16 & 
+16 &
 \int\int_D \left(\frac{4}{5}xy + \frac{9}{11}x^2y^2\right)dxdy\newline
 &D\:x=1, y=-x^3, y=\sqrt{x}
 \\

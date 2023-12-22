@@ -10,8 +10,6 @@
 | 15 | Given a one-dimensional array consisting of N real elements and integers K and L (1<K<L<N). Calculate the sum of positive array elements with numbers between K and L. Sort the part of the array whose element numbers are between K and L in ascending order.                                                                                        |
 | 16 | Given a one-dimensional array consisting of n integers. Calculate the sum of elements in even positions and the product of elements in odd positions. Arrange in ascending order separately the elements that were in even positions and the elements that were in odd positions.                                                                      |
 
-
-
 # Завдання 5.1
 
 ### Робота з одновимірними масивами.

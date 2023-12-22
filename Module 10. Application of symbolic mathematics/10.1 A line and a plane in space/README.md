@@ -16,18 +16,17 @@ As a result of solving the problem, you should get a picture similar to the foll
 
 ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/4288a8ea-32bc-45eb-8acb-5710a9efcbac)
 
-
 $$
 \begin{array}{|r|r|}
 \hline
 \text № & Equation \quad of \quad the \quad line \quad L & Equation \quad of \quad the \quad plane \quad P
 \\
 \hline
- 15 & 
+15 &
 \frac{x - 2}{2} = \frac{y - 2}{-1} = \frac{z - 4}{3} & x + 3y + 5z - 42 = 0
 \\
 \hline
-16 & 
+16 &
 \frac{x - 3}{-1} = \frac{y - 4}{5} = \frac{z - 4}{2} & -7x + y + 4z + 6 = 0
 \\
 \hline
@@ -62,11 +61,11 @@ $$
 \text № & Рівняння \quad прямої \quad L & Рівняння \quad площини \quad P
 \\
 \hline
- 15 & 
+15 &
 \frac{x - 2}{2} = \frac{y - 2}{-1} = \frac{z - 4}{3} & x + 3y + 5z - 42 = 0
 \\
 \hline
-16 & 
+16 &
 \frac{x - 3}{-1} = \frac{y - 4}{5} = \frac{z - 4}{2} & -7x + y + 4z + 6 = 0
 \\
 \hline

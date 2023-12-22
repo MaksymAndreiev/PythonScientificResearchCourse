@@ -11,7 +11,6 @@ something like the following.
 
 ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/6dfbd93a-a5d2-4a4b-953c-83de401d91fe)
 
-
 ***Remark***. To make the normal to the surface look like a normal, you need to set
 the same lengths of the ranges of coordinate changes 𝑥, 𝑦, 𝑧, for example, on all axes,
 with the instructions\
@@ -26,12 +25,12 @@ $$
 \hline
 \text № & Function & Points\\
 \hline
- 15 & 
+15 &
 z = x^2 + xy + y^2 - x + 3y & x_{0} = -0.5; \quad y_{0} = 0.7;
 \\
 \hline
-16 & 
-z = x^2 - 2xy + y^4 - y^5 & x_{0} = -0.5; \quad y_{0} = 0.7; 
+16 &
+z = x^2 - 2xy + y^4 - y^5 & x_{0} = -0.5; \quad y_{0} = 0.7;
 \\
 \hline
 \end{array}
@@ -65,12 +64,12 @@ $$
 \hline
 \text № & Функції & Точки\\
 \hline
- 15 & 
+15 &
 z = x^2 + xy + y^2 - x + 3y & x_{0} = -0.5; \quad y_{0} = 0.7;
 \\
 \hline
-16 & 
-z = x^2 - 2xy + y^4 - y^5 & x_{0} = -0.5; \quad y_{0} = 0.7; 
+16 &
+z = x^2 - 2xy + y^4 - y^5 & x_{0} = -0.5; \quad y_{0} = 0.7;
 \\
 \hline
 \end{array}

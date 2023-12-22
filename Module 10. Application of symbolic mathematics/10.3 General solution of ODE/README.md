@@ -12,11 +12,11 @@ $$
 \text № & Task
 \\
 \hline
- 15 & 
+15 &
 y'' + y = 2\cos(5x) + 3\sin(5x)
 \\
 \hline
-16 & 
+16 &
 y'' + 2y' + 5y = -17\sin(2x)
 \\
 \hline
@@ -38,11 +38,11 @@ $$
 \text № & Завдання
 \\
 \hline
- 15 & 
+15 &
 y'' + y = 2\cos(5x) + 3\sin(5x)
 \\
 \hline
-16 & 
+16 &
 y'' + 2y' + 5y = -17\sin(2x)
 \\
 \hline

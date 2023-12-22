@@ -15,21 +15,21 @@ $$
 \text № & Task
 \\
 \hline
- 15 & 
+15 &
 y\' + \frac{2}{x}y = x^3\, \quad y\(1\)\=\-5/6
 \\
 \hline
-16 & 
+16 &
 y\' + \frac{y}{x} = 3x\, \quad y\(1\)\=1
 \\
 \hline
 \end{array}
 $$
 
-| №  | Image  |
-|---|---|
-|  15 |  ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/630b2a8b-f75a-4800-ac78-10f7557228b8) |
-|  16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/2514aec5-9229-4b4f-b485-be7502c1c397) |
+| №  | Image                                                                                                                           |
+|----|---------------------------------------------------------------------------------------------------------------------------------|
+| 15 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/630b2a8b-f75a-4800-ac78-10f7557228b8) |
+| 16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/2514aec5-9229-4b4f-b485-be7502c1c397) |
 
 # Завдання 13.1
 
@@ -49,18 +49,18 @@ $$
 \text № & Завдання
 \\
 \hline
- 15 & 
+15 &
 y\' + \frac{2}{x}y = x^3\, \quad y\(1\)\=\-5/6
 \\
 \hline
-16 & 
+16 &
 y\' + \frac{y}{x} = 3x\, \quad y\(1\)\=1
 \\
 \hline
 \end{array}
 $$
 
-| №  | Зображення  |
-|---|---|
-|  15 |  ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/630b2a8b-f75a-4800-ac78-10f7557228b8) |
-|  16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/2514aec5-9229-4b4f-b485-be7502c1c397) |
+| №  | Зображення                                                                                                                      |
+|----|---------------------------------------------------------------------------------------------------------------------------------|
+| 15 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/630b2a8b-f75a-4800-ac78-10f7557228b8) |
+| 16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/2514aec5-9229-4b4f-b485-be7502c1c397) |

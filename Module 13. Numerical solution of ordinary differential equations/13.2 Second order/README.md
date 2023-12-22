@@ -20,21 +20,21 @@ $$
 \text № & Task
 \\
 \hline
- 15 & 
+15 &
 y'' - 4y' + 29y = 0
 \\
 \hline
-16 & 
+16 &
 y'' - 2y' + 26y = 0
 \\
 \hline
 \end{array}
 $$
 
-| №  | Image  |
-|---|---|
-|  15 |  ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/2cc25788-29cc-45d6-a33e-edb368f0eb1c) |
-|  16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/e2d3c094-736c-443a-95dc-f2b23633c791) |
+| №  | Image                                                                                                                           |
+|----|---------------------------------------------------------------------------------------------------------------------------------|
+| 15 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/2cc25788-29cc-45d6-a33e-edb368f0eb1c) |
+| 16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/e2d3c094-736c-443a-95dc-f2b23633c791) |
 
 # Завдання 13.2
 
@@ -60,18 +60,18 @@ $$
 \text № & Завдання
 \\
 \hline
- 15 & 
+15 &
 y'' - 4y' + 29y = 0
 \\
 \hline
-16 & 
+16 &
 y'' - 2y' + 26y = 0
 \\
 \hline
 \end{array}
 $$
 
-| №  | Зображення  |
-|---|---|
-|  15 |  ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/2cc25788-29cc-45d6-a33e-edb368f0eb1c) |
-|  16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/e2d3c094-736c-443a-95dc-f2b23633c791) |
+| №  | Зображення                                                                                                                      |
+|----|---------------------------------------------------------------------------------------------------------------------------------|
+| 15 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/2cc25788-29cc-45d6-a33e-edb368f0eb1c) |
+| 16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/e2d3c094-736c-443a-95dc-f2b23633c791) |

@@ -9,17 +9,16 @@ like the following.
 
 ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/2eee2131-db16-41b7-832d-6669ad430eaa)
 
-
 $$
 \begin{array}{|r|r|}
 \hline
 \text № & Task\\
 \hline
- 15 & 
+15 &
 x^2 - 6xy - 7y^2 + 10x - 30y + 23 = 0
 \\
 \hline
-16 & 
+16 &
 8x^2 - 12xy + 17y^2 + 16x - 12y + 3 = 0
 \\
 \hline
@@ -43,11 +42,11 @@ $$
 \hline
 \text № & Завдання\\
 \hline
- 15 & 
+15 &
 x^2 - 6xy - 7y^2 + 10x - 30y + 23 = 0
 \\
 \hline
-16 & 
+16 &
 8x^2 - 12xy + 17y^2 + 16x - 12y + 3 = 0
 \\
 \hline

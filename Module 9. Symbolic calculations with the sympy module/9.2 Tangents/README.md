@@ -18,11 +18,11 @@ $$
 \hline
 \text № & Task\\
 \hline
- 15 & 
+15 &
 y = \frac{\sqrt{(1+x^2) \cdot 3}}{3x^3}
 \\
 \hline
-16 & 
+16 &
 y = \frac{x^6 + 8x^3 - 128}{\sqrt{8 + x^3}}
 \\
 \hline
@@ -49,11 +49,11 @@ $$
 \hline
 \text № & Завдання\\
 \hline
- 15 & 
+15 &
 y = \frac{\sqrt{(1+x^2) \cdot 3}}{3x^3}
 \\
 \hline
-16 & 
+16 &
 y = \frac{x^6 + 8x^3 - 128}{\sqrt{8 + x^3}}
 \\
 \hline

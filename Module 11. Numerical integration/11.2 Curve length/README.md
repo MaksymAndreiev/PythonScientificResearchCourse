@@ -5,7 +5,7 @@
 Determine the length of the arc of the given curve segment
 parametric equations. Construct a curve and a curved line segment, the length of which is calculated.\
 Indication. The length of the arc of a plane curve, which is given in the parametric form x = x(t), y = y(t), is
-calculated by the formula 
+calculated by the formula
 $$L = \int_{t_0}^{t_1} \sqrt{(x'(t))^2 + (y'(t))^2} \, dt$$
 where t<sub>0</sub> and t<sub>1</sub> are the values of the parameter at the starting and ending points of the arc.\
 Set the functions x(t), y(t) symbolically and calculate the integral expression $\sqrt{(x'(t))^2 + (y'(t))^2} $. Convert
@@ -17,18 +17,18 @@ $$
 \text № & Task
 \\
 \hline
- 15 & 
+15 &
 \begin{cases}
-    x(t) = 6\(\cos(t)\+t\sin(t)\), \\
-    y(t) = 6\(\sin(t)\-t\cos(t)\),
+x(t) = 6\(\cos(t)\+t\sin(t)\), \\
+y(t) = 6\(\sin(t)\-t\cos(t)\),
 \end{cases}
 \quad \quad 0 \leq t \leq 4\pi.
 \\
 \hline
-16 & 
+16 &
 \begin{cases}
-    x(t) = \cos(t)\+\sin(t), \\
-    y(t) = \cos(t)\-\sin(t),
+x(t) = \cos(t)\+\sin(t), \\
+y(t) = \cos(t)\-\sin(t),
 \end{cases}
 \quad \quad 0 \leq t \leq 2\pi.
 \\
@@ -51,25 +51,24 @@ $$L = \int_{t_0}^{t_1} \sqrt{(x'(t))^2 + (y'(t))^2} \, dt$$
 $\sqrt{(x'(t))^2 + (y'(t))^2} $. Перетворіть його на ```numpy``` функцію, яку використайте при
 чисельному інтегруванні.
 
-
 $$
 \begin{array}{|r|r|}
 \hline
 \text № & Завдання
 \\
 \hline
- 15 & 
+15 &
 \begin{cases}
-    x(t) = 6\(\cos(t)\+t\sin(t)\), \\
-    y(t) = 6\(\sin(t)\-t\cos(t)\),
+x(t) = 6\(\cos(t)\+t\sin(t)\), \\
+y(t) = 6\(\sin(t)\-t\cos(t)\),
 \end{cases}
 \quad \quad 0 \leq t \leq 4\pi.
 \\
 \hline
-16 & 
+16 &
 \begin{cases}
-    x(t) = \cos(t)\+\sin(t), \\
-    y(t) = \cos(t)\-\sin(t),
+x(t) = \cos(t)\+\sin(t), \\
+y(t) = \cos(t)\-\sin(t),
 \end{cases}
 \quad \quad 0 \leq t \leq 2\pi.
 \\

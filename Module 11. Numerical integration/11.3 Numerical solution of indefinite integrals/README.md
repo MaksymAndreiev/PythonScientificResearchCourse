@@ -7,29 +7,40 @@ calculate the indefinite integral and plot its graph. Build as well
 the graph of the integrand function. At the point ```x0```, construct a tangent to the graph
 original
 
-Recall that the equation of the tangent to the graph of the function $\(y = y(x)\)$ at the point $\(x_0\)$ has the form $\(y = y(x_0) + k \cdot (x -
-x_0)\)$, where $\(k = y'(x_0)\)$ is the value of the derivative at the point of contact. The coefficient $\(k\)$ can be calculated in two ways:
-using the definition of the primitive (the derivative of the primitive is equal to the integrand), and approximated by the formula
+Recall that the equation of the tangent to the graph of the function $\(y = y(x)\)$ at the point $\(x_0\)$ has the form
+$\(y = y(x_0) + k \cdot (x -
+x_0)\)$, where $\(k = y'(x_0)\)$ is the value of the derivative at the point of contact. The coefficient $\(k\)$ can be
+calculated in two ways:
+using the definition of the primitive (the derivative of the primitive is equal to the integrand), and approximated by
+the formula
 $\(y'(x_0) \approx \frac{y(x_0 + \Delta x) - y(x_0)}{\Delta x}\)$. Construct tangent graphs for both values of $\(k\)$.
-The value of $\(x_0\)$, intervals of the independent variable on the graphs, as well as an arbitrary constant for the initial one can be chosen independently.
+The value of $\(x_0\)$, intervals of the independent variable on the graphs, as well as an arbitrary constant for the
+initial one can be chosen independently.
 As a result of solving the problem, you should get a drawing similar to
 for example, on the next one.
 
 ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/33370ae3-6942-4f3d-9601-b3c2caacb06a)
 
-
-***Hint.*** To select a point on the graph of the original, it is desirable to use the abscissa $\(x\)$ among the values of the array, which were calculated
-the value of the ordinate $\(y_{\text{int}}\)$, determine the index $\(i_0\)$ of the element that is equal to $\(x_0\)$ (the value of $\(x_0\)$
+***Hint.*** To select a point on the graph of the original, it is desirable to use the abscissa $\(x\)$ among the values
+of the array, which were calculated
+the value of the ordinate $\(y_{\text{int}}\)$, determine the index $\(i_0\)$ of the element that is equal to
+$\(x_0\)$ (the value of $\(x_0\)$
 must be
-among the elements of $\(x\))$. This can be done, for example, by the instruction $\(i_0 = \text{np.where}(x==x_0)[0][0]\)$. Then
+among the elements of $\(x\))$. This can be done, for example, by the instruction $\(i_0 = \text{np.where}(
+x==x_0)[0][0]\)$. Then
 ordinate
-point of contact will be $\(y_{\text{int}}[i_0]\)$, and the approximate formula $\(y' (x_0) \approx \frac{y_{\text{int}}[i_0+1] - y_
-{\text{int}}[i_0]}{x[i_0+1] - x[i_0]}\)$ can be implemented by the instruction ```k1=(yint[i0+1]-yint[i0])/( x[i0+1]-x[i0])```.
-Obviously, the array of tangent ordinates ```yd1'' will be calculated by the instruction ``yd1=yint[i0]+k1*(xd1-x[i0])'',
+point of contact will be $\(y_{\text{int}}[i_0]\)$, and the approximate formula $\(y' (x_0) \approx \frac{y_
+{\text{int}}[i_0+1] - y_
+{\text{int}}[i_0]}{x[i_0+1] - x[i_0]}\)$ can be implemented by the
+instruction ```k1=(yint[i0+1]-yint[i0])/( x[i0+1]-x[i0])```.
+Obviously, the array of tangent
+ordinates ```yd1'' will be calculated by the instruction ``yd1=yint[i0]+k1*(xd1-x[i0])'',
 where ``xd1'' is the abscissa array along which the tangent will be drawn. Exactly the coefficient (tangent of the angle) of the slope of the tangent to the graph
 of the original is calculated as the value of the integrand
-of the expression at the point ```x0'''. Use it to construct another straight line that will more accurately model the tangent line. At
-increasing the number of points by which the array of ordinates ```yint''' of the original is calculated, the discrepancy between the tangent graphs
+of the expression at the point ```x0'''. Use it to construct another straight line that will more accurately model the
+tangent line. At
+increasing the number of points by which the array of ordinates ```yint''' of the original is calculated, the
+discrepancy between the tangent graphs
 should decrease (check it).
 
 $$
@@ -38,17 +49,16 @@ $$
 \text № & Task
 \\
 \hline
- 15 & 
+15 &
 \int (4 - 16x) \sin(4x) \, dx
 \\
 \hline
-16 & 
+16 &
 \int (5x - 2)e^{3x} \, dx
 \\
 \hline
 \end{array}
 $$
-
 
 # Завдання 11.3
 
@@ -89,11 +99,11 @@ $$
 \text № & Завдання
 \\
 \hline
- 15 & 
+15 &
 \int (4 - 16x) \sin(4x) \, dx
 \\
 \hline
-16 & 
+16 &
 \int (5x - 2)e^{3x} \, dx
 \\
 \hline
