@@ -7,7 +7,7 @@ that its visible part passes through the points. Draw a triangle with the vertic
 inscribed in it. a circle inscribed in it. Print the coordinates of the center of the circle. Calculate the area of the
 triangle. В the center of the inscribed circle, draw the normal vector to the plane.
 
-Instruction. The radius R of a circle inscribed in a triangle is calculated by the formula
+***Hint***. The radius R of a circle inscribed in a triangle is calculated by the formula
 
 $$R = \sqrt{\frac{{(s - a)(s - b)(s - c)}}{s}}$$
 
@@ -29,7 +29,7 @@ inscribed in triangle ABC is calculated by the formula 𝒓<sub>𝑶</sub> = (�
 ділянка проходила через точки. Намалювати трикутник з вершинами в цих точках та вписане в нього коло. Надрукувати
 координати центра кола. Обчислити площу трикутника. В центрі вписаного кола зобразити вектор нормалі до площини.
 
-Вказівка. Радіус R вписаного в трикутник кола обчислюється за формулою
+***Вказівка***. Радіус R вписаного в трикутник кола обчислюється за формулою
 
 $$R = \sqrt{\frac{{(s - a)(s - b)(s - c)}}{s}}$$
 
