@@ -31,6 +31,11 @@ $$
 \end{array}
 $$
 
+| №  | Image  |
+|---|---|
+|  15 |  ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/456e5ca5-5e5b-414e-bd4e-1e8bd69f680b) |
+|  16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/0ada08a3-a6fa-4916-ae3c-a1b0efa3282a) |
+
 # Завдання 13.4
 
 ### Задача Коші для системи диференціальних рівнянь.
@@ -67,3 +72,8 @@ $$
 \hline
 \end{array}
 $$
+
+| №  | Зображення  |
+|---|---|
+|  15 |  ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/456e5ca5-5e5b-414e-bd4e-1e8bd69f680b) |
+|  16 | ![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/0ada08a3-a6fa-4916-ae3c-a1b0efa3282a) |
