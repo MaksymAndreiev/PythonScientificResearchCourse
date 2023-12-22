@@ -1,4 +1,4 @@
-# Task 13.1 (Variant 15)
+# Task 13.1
 
 ### First order differential equation.
 
@@ -9,11 +9,24 @@ Remark. In the given graphs, curves are drawn both to the left and to the right 
 𝑦<sub>0</sub>. The ```odeint``` function will only generate a solution
 for abscissa 𝑥 ≥ 𝑥<sub>0</sub>. That is, your graphs should be constructed only in the half-plane 𝑥 ≥ 𝑥<sub>0</sub>.
 
-$$y\' + \frac{2}{x}y = x^3$$
-$y\(1\)\=\-5/6$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Task
+\\
+\hline
+ 15 & 
+y\' + \frac{2}{x}y = x^3\, \quad y\(1\)\=\-5/6
+\\
+\hline
+16 & 
+y\' + \frac{y}{x} = 3x\, \quad y\(1\)\=1
+\\
+\hline
+\end{array}
+$$
 
-
-# Завдання 13.1 (Варіант 15)
+# Завдання 13.1
 
 ### Диференціальне рівняння першого порядку.
 
@@ -25,5 +38,19 @@ $y\(1\)\=\-5/6$
 для абсцис 𝑥 ≥ 𝑥<sub>0</sub>. Тобто ваші графіки мають бути побудовані лише у
 півплощині 𝑥 ≥ 𝑥<sub>0</sub>.
 
-$$y\' + \frac{2}{x}y = x^3$$
-$y\(1\)\=\-5/6$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Завдання
+\\
+\hline
+ 15 & 
+y\' + \frac{2}{x}y = x^3\, \quad y\(1\)\=\-5/6
+\\
+\hline
+16 & 
+y\' + \frac{y}{x} = 3x\, \quad y\(1\)\=1
+\\
+\hline
+\end{array}
+$$
