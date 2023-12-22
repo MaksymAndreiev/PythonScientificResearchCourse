@@ -14,7 +14,22 @@ this problem can be taken from the initial conditions.\
 for the abscissa 𝑥 ≥ 𝑥<sub>0</sub> = 0. That is, the graph of the solution should be constructed only in the right
 half-plane of 𝑥 ≥ 0.
 
-$$y'' - 4y' + 29y = 0$$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Task
+\\
+\hline
+ 15 & 
+y'' - 4y' + 29y = 0
+\\
+\hline
+16 & 
+y'' - 2y' + 26y = 0
+\\
+\hline
+\end{array}
+$$
 
 # Завдання 13.2 (Варіант 15)
 
@@ -34,4 +49,19 @@ $$y'' - 4y' + 29y = 0$$
 для абсцис 𝑥 ≥ 𝑥<sub>0</sub> = 0. Тобто графік розв’язку має бути побудований лише у
 правій півплощині 𝑥 ≥ 0.
 
-$$y'' - 4y' + 29y = 0$$
+$$
+\begin{array}{|r|r|}
+\hline
+\text № & Завдання
+\\
+\hline
+ 15 & 
+y'' - 4y' + 29y = 0
+\\
+\hline
+16 & 
+y'' - 2y' + 26y = 0
+\\
+\hline
+\end{array}
+$$
