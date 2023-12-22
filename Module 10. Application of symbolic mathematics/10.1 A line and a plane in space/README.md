@@ -6,7 +6,7 @@ Find the point M of intersection of the line L and the plane P. Draw
 line L, plane P and point M. Find the line L1 – the projection of L on the plane P. On the plane P find the line L2
 perpendicular to the line L1 (that is, find the equations of the lines L1, L2 and draw them). At the point M, draw a
 vector normal to the plane P.\
-Indication. Let 𝒂𝑳 be the direction vector of the line L (in the example considered above, 𝒂𝑳 = (−1, −1, 4)), 𝑵 – the
+***Hint***. Let 𝒂𝑳 be the direction vector of the line L (in the example considered above, 𝒂𝑳 = (−1, −1, 4)), 𝑵 – the
 vector normal to the plane (in the example considered, 𝑵 = (1, 2, 3)). Then the direction vector 𝒂𝑳𝟏 of the line L1 will
 be 𝒂𝑳𝟏 = (𝒂𝑳 × 𝑵) × 𝑵, and the direction vector 𝒂𝑳𝟐 of the line L2 will be equal to 𝒂𝑳𝟐 = (𝒂𝑳 × 𝑵), where the cross ×
 denotes the vector product. These vectors are desirable
@@ -43,7 +43,7 @@ $$
 площині P знайти пряму L2, перпендикулярну до прямої L1 (тобто знайти
 рівняння прямих L1, L2 і намалювати їх). В точці M намалювати вектор нормалі
 до площини P.\
-Вказівка. Нехай 𝒂𝑳 – направляючий вектор прямої L (в розглянутому вище
+***Вказівка***. Нехай 𝒂𝑳 – направляючий вектор прямої L (в розглянутому вище
 прикладі 𝒂𝑳 = (−1, −1, 4)), 𝑵 – вектор нормалі до площини (в розглянутому
 прикладі 𝑵 = (1, 2, 3)). Тоді направляючим вектором 𝒂𝑳𝟏 прямої L1 буде
 𝒂𝑳𝟏 = (𝒂𝑳 × 𝑵) × 𝑵, а направляючий вектор 𝒂𝑳𝟐 прямої L2 дорівнюватиме
