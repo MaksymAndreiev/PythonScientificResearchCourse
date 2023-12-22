@@ -13,13 +13,14 @@ Faculty of Mathematics and Informatics, Department of Theoretical and Applied In
 of the Department of Theoretical and Applied Informatics, PhD in Engineering Petro Hryhorovych Dolya.
 Link: http://geometry.karazin.ua/en/~Dolya/documents#
 
-Topics 5-11 and topic 13 were completed for the final examination. Topics 5-11 and topic 13 were completed for the final examination. Options 7, 15, 16 and 17 are available.\
-Implementation of option 7: [MaksymAndreiev](https://github.com/MaksymAndreiev)\
-Implementation of option 15: [MaksymAndreiev](https://github.com/MaksymAndreiev)\
-Implementation of option 16: [VladislavKomeristiy](https://github.com/VladislavKomeristiy)\
+Topics 5-11 and topic 13 were completed for the final examination. Options 7, 15, 16 and 17 are available.\
+Implementation of option 7: [Maksym Andreiev](https://github.com/MaksymAndreiev)\
+Implementation of option 15: [Maksym Andreiev](https://github.com/MaksymAndreiev)\
+Implementation of option 16: [Vladislav Komeristiy](https://github.com/VladislavKomeristiy)\
 Implementation of option 17:
 
-## Contents
+<details>
+  <summary><h2>Contents</h2></summary>
 
 [Topic 5. Arrays](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/)\
    5.1. [Working with one-dimensional arrays](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.1%20Working%20with%20one-dimensional%20arrays)\
@@ -69,7 +70,7 @@ Implementation of option 17:
     13.2. [Second-order differential equation](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2013.%20Numerical%20solution%20of%20ordinary%20differential%20equations/13.2%20Second%20order)\
     13.3. [Cauchy problem for a system of first-order equations](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2013.%20Numerical%20solution%20of%20ordinary%20differential%20equations/13.3%20Cauchy%20problem%20for%20a%20system%20of%20first%20order%20equations)\
     13.4. [Cauchy problem for a system of differential equations](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2013.%20Numerical%20solution%20of%20ordinary%20differential%20equations/13.4%20Cauchy%20problem%20for%20a%20system%20of%20differential%20equations)
-
+</details>
 
 # Використання системи програмування Python в наукових дослідженнях
 
@@ -80,12 +81,13 @@ Implementation of option 17:
 Посилання: http://geometry.karazin.ua/~Dolya/documents#
 
 Для залікової роботи було виконано теми 5-11 та тема 13. Доступні варіанти 7, 15, 16 та 17.\
-Виконання варіанту 7: [MaksymAndreiev](https://github.com/MaksymAndreiev)\
-Виконання варіанту 15: [MaksymAndreiev](https://github.com/MaksymAndreiev)\
-Виконання варіанту 16: [VladislavKomeristiy](https://github.com/VladislavKomeristiy)\
+Виконання варіанту 7: [Максим Андреєв](https://github.com/MaksymAndreiev)\
+Виконання варіанту 15: [Максим Андреєв](https://github.com/MaksymAndreiev)\
+Виконання варіанту 16: [Владислав Комеристий](https://github.com/VladislavKomeristiy)\
 Виконання варіанту 17:
 
-## Зміст
+<details>
+  <summary><h2>Зміст</h2></summary>
 
 [Тема 5. Масиви](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/)\
    5.1. [Робота з одновимірними масивами](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%205.%20Arrays/5.1%20Working%20with%20one-dimensional%20arrays)\
@@ -135,3 +137,4 @@ Implementation of option 17:
     13.2. [Диференціальне рівняння другого порядку](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2013.%20Numerical%20solution%20of%20ordinary%20differential%20equations/13.2%20Second%20order)\
     13.3. [Задача Коші для системи рівнянь першого порядку](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2013.%20Numerical%20solution%20of%20ordinary%20differential%20equations/13.3%20Cauchy%20problem%20for%20a%20system%20of%20first%20order%20equations)\
     13.4. [Задача Коші для системи диференціальних рівнянь](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/tree/master/Module%2013.%20Numerical%20solution%20of%20ordinary%20differential%20equations/13.4%20Cauchy%20problem%20for%20a%20system%20of%20differential%20equations)
+</details>
