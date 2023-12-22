@@ -14,6 +14,9 @@ normalize (bring to unit length) and apply in the parametric equations of lines 
 𝑡, where 𝒓𝑀 is the radius vector of point M, 𝒂 is the direction vector of the corresponding line.
 As a result of solving the problem, you should get a picture similar to the following one.
 
+![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/4288a8ea-32bc-45eb-8acb-5710a9efcbac)
+
+
 $$
 \begin{array}{|r|r|}
 \hline
@@ -50,6 +53,8 @@ $$
 𝒂 – направляючий вектор відповідної прямої.
 В результаті розв'язання задачі ви повинні отримати рисунок схожий на
 наступний.
+
+![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/4288a8ea-32bc-45eb-8acb-5710a9efcbac)
 
 $$
 \begin{array}{|r|r|}
