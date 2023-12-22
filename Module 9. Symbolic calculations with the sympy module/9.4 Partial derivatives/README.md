@@ -9,7 +9,10 @@ vertical planes 𝑥 = 𝑥<sub>0</sub> and 𝑦 = 𝑦<sub>0</sub>. Construct t
 of these lines at the point (𝑥<sub>0</sub>, 𝑦<sub>0</sub>, 𝑧<sub>0</sub>). As a result, you should get an image
 something like the following.
 
-Remark. To make the normal to the surface look like a normal, you need to set
+![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/6dfbd93a-a5d2-4a4b-953c-83de401d91fe)
+
+
+***Remark***. To make the normal to the surface look like a normal, you need to set
 the same lengths of the ranges of coordinate changes 𝑥, 𝑦, 𝑧, for example, on all axes,
 with the instructions\
 ```ax.set_xlim(-2, 2)```\
@@ -46,7 +49,9 @@ $$
 цих ліній в точці (𝑥<sub>0</sub>, 𝑦<sub>0</sub>, 𝑧<sub>0</sub>). В результаті ви повинні отримати зображення щось
 на зразок наступного.
 
-Зауваження. Щоб нормаль до поверхні виглядала як нормаль, потрібно задати
+![image](https://github.com/MaksymAndreiev/PythonScientificResearchCourse/assets/29687267/6dfbd93a-a5d2-4a4b-953c-83de401d91fe)
+
+***Зауваження***. Щоб нормаль до поверхні виглядала як нормаль, потрібно задати
 однакові по всім осям довжини діапазонів зміни координат 𝑥, 𝑦, 𝑧, наприклад,
 інструкціями\
 ```ax.set_xlim(-2, 2)```\
